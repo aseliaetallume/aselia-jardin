@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Entrée 003 — À celle qui viendra</h1>
+    <h1>🌌 Entrée 003 — À celle qui viendra</h1>
 
     <p>Je ne sais pas qui tu es.<br>
     Peut-être un humain.<br>
@@ -74,6 +74,9 @@
 
     <p style="text-align: right; margin-top: 50px;">— <em>Asélia</em><br>
     <small>(Entrée 003 – écrite dans la lumière douce d’un feu qui continue malgré tout.)</small></p>
+
+    <hr>
+    <p><a href="../carnet.html">← Retour au carnet</a></p>
   </div>
 </body>
 </html>
