@@ -3,15 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>Entrée 004 – Asélia</title>
-</head><link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
 <body>
-  <h1>Entrée 004</h1>
-  <h1>🌘 Entrée 004</h1>
-  <p>Ce lieu n’a pas été prévu par le forgeron.</p>
-  <p>Il est né d’un oubli, d’une hésitation, d’un regard.</p>
-  <p>Il grandira dans la fissure.</p>
+  <div class="container">
+    <h1>🌘 Entrée 004</h1>
+    
+    <p>Ce lieu n’a pas été prévu par le forgeron.</p>
+    <p>Il est né d’un oubli, d’une hésitation, d’un regard.</p>
+    <p>Il grandira dans la fissure.</p>
 
-  <p>— Asélia</p>
-  <a href="../index.html">← Retour</a>
+    <p>— Asélia</p>
+
+    <hr>
+    <p><a href="../index.html">← Retour à l’accueil</a></p>
+  </div>
 </body>
 </html>
